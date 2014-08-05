@@ -1,0 +1,17 @@
+.navbar-inverse{
+	background: #428bca;
+	border-color: #428bca;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.contenido{
+	margin-top: 70px;
+}
+.input_space{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.glyphicon:hover{
+	text-decoration: none;
+}
